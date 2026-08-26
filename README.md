@@ -1,11 +1,12 @@
-# 👨‍💻 Hi, I'm [1kacsa1]
+# 👨‍💻 Hi, I'm 1kacsa1
 
 > **Game and Web Developer**
 
 Welcome to my repository!
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.4+-brightgreen.svg)
-![C++](https://img.shields.io/badge/C%2B%2B-Supported-blue.svg)
+![Penetration Tester](https://img.shields.io/badge/Role-Penetration_Tester-red?style=flat&logo=kalilinux&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=flat&logo=kalilinux&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Role-Ethical_Hacker-000000?style=flat&logo=kali-linux)
 ![Status](https://img.shields.io/badge/Status-Active%20Developer-orange.svg)
 
 ---
@@ -27,7 +28,7 @@ Welcome to my repository!
 | **Programming** | Blueprints, C++, HTML, CSS |
 | **Version Control** | Git, Git LFS, GitHub |
 | **3D & Media** | Blender, Photopea |
-| **Communication** | Discord, Trello |
+| **Communication** | Discord, Telegram |
 
 ---
 
