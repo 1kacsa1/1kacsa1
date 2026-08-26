@@ -7,29 +7,29 @@ Welcome to my repository!
 ![Penetration Tester](https://img.shields.io/badge/Role-Penetration_Tester-red?style=flat&logo=kalilinux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=flat&logo=kalilinux&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Role-Ethical_Hacker-000000?style=flat&logo=kali-linux)
-![Status](https://img.shields.io/badge/Status-Active%20Developer-orange.svg)
+![Status](https://img.shields.io/badge/Status-Cybersecurity_Student-blue?style=flat&logo=academicons)
 
 ---
 
-## 📌 About Me
+## 🎯 About Me
 
-* 🚀 **Core Focus:** Unreal Engine Development (Blueprints & C++)
-* 🌐 **Networking:** Dedicated Servers, Multiplayer Systems & EOS (Epic Online Services)
-* 🎨 **3D Pipeline:** Asset Integration, Lighting & Environment Setup (Blender)
-* 🛠️ **Tools:** Git, GitHub, Visual Studio Code
+* 🔐 **Focus:** Passionate about **Cybersecurity**, **Ethical Hacking**, and **Penetration Testing**.
+* 🎯 **Goal:** Learning how to identify security vulnerabilities and conduct authorized penetration tests to help secure systems.
+* 🧪 **Hands-on Practice:** Constantly sharpening my skills through labs, CTF challenges, and real-world security research.
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack & Security Tools
 
-| Domain | Technologies |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **Engine** | Unreal Engine 5.x |
-| **Programming** | Blueprints, C++, HTML, CSS |
-| **Version Control** | Git, Git LFS, GitHub |
-| **3D & Media** | Blender, Photopea |
-| **Communication** | Discord, Telegram |
+| **Security & Pentesting** | Penetration Testing, Vulnerability Assessment, Web App Security |
+| **Operating Systems** | Linux (Kali Linux), Windows |
+| **Tools & Platforms** | Wireshark, Nmap, Burp Suite, TryHackMe, Hack The Box |
+
 
 ---
 
+## 📬 Connect with Me
 
+* 💬 **Discord:** `1kacsa1`
