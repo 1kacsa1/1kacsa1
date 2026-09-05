@@ -24,7 +24,7 @@ Welcome to my repository!
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Security & Pentesting** | Penetration Testing, Vulnerability Assessment, Web App Security |
-| **Operating Systems** | Linux (Kali Linux), Windows |
+| **Operating Systems** | Linux (parrot Linux), Windows |
 | **Tools & Platforms** | Wireshark, Nmap, Burp Suite, TryHackMe, Hack The Box |
 
 
