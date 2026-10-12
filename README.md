@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm 1kacsa1
 
-> **Game and Web Developer**
+> **Cybersecurity student and developer**
 
 Welcome to my repository!
 
@@ -8,6 +8,7 @@ Welcome to my repository!
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=flat&logo=kalilinux&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Role-Ethical_Hacker-000000?style=flat&logo=kali-linux)
 ![Status](https://img.shields.io/badge/Status-Cybersecurity_Student-blue?style=flat&logo=academicons)
+![Developer](https://img.shields.io/badge/Developer-blue?logo=github)
 
 ---
 
@@ -19,16 +20,6 @@ Welcome to my repository!
 
 ---
 
-## 💻 Tech Stack & Security Tools
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Security & Pentesting** | Penetration Testing, Vulnerability Assessment, Web App Security |
-| **Operating Systems** | Linux (parrot Linux), Windows |
-| **Tools & Platforms** | Wireshark, Nmap, Burp Suite, TryHackMe, Hack The Box |
-
-
----
 
 ## 📬 Connect with Me
 
