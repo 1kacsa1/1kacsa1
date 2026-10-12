@@ -14,12 +14,19 @@ Welcome to my repository!
 
 ## 🎯 About Me
 
-* 🔐 **Focus:** Passionate about **Cybersecurity**, **Ethical Hacking**, and **Penetration Testing**.
-* 🎯 **Goal:** Learning how to identify security vulnerabilities and conduct authorized penetration tests to help secure systems.
-* 🧪 **Hands-on Practice:** Constantly sharpening my skills through labs, CTF challenges, and real-world security research.
+* 🔐 **Focus:** Passionate about **Cybersecurity**, **Ethical Hacking**, **Penetration Testing** and **Game Server Developping**.
+* 🎯 **Goal:** Learn and get a job in **Cybersecurity** and making a successful game server .
+
 
 ---
 
+## 💻 My Projects
+
+* Lethal Facility - SCP:SL Server - Co Owner and Lead Developper
+
+
+
+---
 
 ## 📬 Connect with Me
 
